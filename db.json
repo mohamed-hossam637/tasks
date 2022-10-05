@@ -1,23 +1,25 @@
 {
-  "tasks" : [{
-    "id" : 123 ,
-    "taskTitle" : "python course" ,
-    "taskContent" : "complete pyton course before this month and create projects"
-  },
+  "tasks" : [
     {
-    "id" : 1234 ,
-    "taskTitle" : "dashboard" ,
-    "taskContent" : "complete this dashboard and complete all pages in this dashboard"
-  }, 
+      "id" : 123 ,
+      "taskTitle" : "python course" ,
+      "taskContent" : "complete pyton course before this month and create projects"
+    },
     {
-    "id" : 12345 ,
-    "taskTitle" : "vue mastry courses" ,
-    "taskContent" : "complete vue mastry courses begener path"
-  }, 
-  {
-    "id" : 123456 ,
-    "taskTitle" : "php course" ,
-    "taskContent" : "watch nti php course "
-  }]
+      "id" : 1234 ,
+      "taskTitle" : "dashboard" ,
+      "taskContent" : "complete this dashboard and complete all pages in this dashboard"
+    }, 
+    {
+      "id" : 12345 ,
+      "taskTitle" : "vue mastry courses" ,
+      "taskContent" : "complete vue mastry courses begener path"
+    }, 
+    {
+      "id" : 123456 ,
+      "taskTitle" : "php course" ,
+      "taskContent" : "watch nti php course "
+    }
+  ]
 }
 
