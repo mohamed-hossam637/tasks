@@ -20,6 +20,12 @@
       "taskTitle" : "php course" ,
       "taskContent" : "watch nti php course "
     }
-  ]
+  ] , 
+  "info":{
+    "name" : "mohamed" , 
+    "title" : "frontend web developer" ,
+    "project" : 14 , 
+    "image" : "https://drive.google.com/file/d/1uu_mpTrwVeOi1Mo3tq0mcpKME5AqllYX/view?usp=sharing"
+  }
 }
 
