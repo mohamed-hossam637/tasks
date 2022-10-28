@@ -67,7 +67,8 @@
     {
             "id" : 4 , 
             "name" : "marketing"
-    }],
+    }
+    ],
         "project_progress" : 60 ,
         "project_cost" : 2500
     } 
